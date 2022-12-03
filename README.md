@@ -2,4 +2,4 @@
 
 ![](https://adventjs.dev/og.png)
 
-This repository contains my solutions to the [AdventJS](https://adventjs.dev/) puzzles. Created by [@midudev](https://github.com/midudev)
+Este repositorio contiene mis soluciones de [AdventJS](https://adventjs.dev/) puzles. Creado por [@midudev](https://github.com/midudev)
